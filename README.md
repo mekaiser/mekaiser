@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Kaiser</h1>
-<h3 align="center">I'm a Front-end web developer, Graphic designer and Microsoft Learn Beta Student Ambassador.</h3>
+<h3 align="center">I'm a Front End Web Developer, Graphic Designer and Microsoft Learn Beta Student Ambassador.</h3>
 
 - 👨‍💻 Visit my website [https://www.kaiserahmed.xyz/](https://www.kaiserahmed.xyz/)
 
