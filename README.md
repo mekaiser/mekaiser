@@ -29,6 +29,6 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mekaiser&show_icons=true&locale=en&layout=compact" alt="mekaiser" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mekaiser&show_icons=true&locale=en&layout=compact" alt="mekaiser" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mekaiser&show_icons=true&locale=en" alt="mekaiser" /></p>
