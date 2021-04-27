@@ -7,7 +7,7 @@
 
 - 📫 Reach me at **inkaiserahmed@gmail.com**
 
-- ⚡ Hobbies **Playing action video games, watching action movies, and listening to music.**
+- ⚡ My hobbies are **Playing action video games, watching action movies, and listening to music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,7 +27,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
----
+<hr>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mekaiser&show_icons=true&locale=en&layout=compact" alt="mekaiser" /></p>
 
