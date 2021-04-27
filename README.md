@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **inkaiserahmed@gmail.com**
 
-- ⚡ My hobbies are **Playing action video games, watching action movies, and listening to music.**
+- ⚡ My hobbies are **playing action video games, watching action movies, and listening to music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,5 +32,4 @@
 <hr>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mekaiser&show_icons=true&locale=en&layout=compact" alt="mekaiser" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mekaiser&show_icons=true&locale=en" alt="mekaiser" /></p>
