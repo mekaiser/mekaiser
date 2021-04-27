@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Kaiser</h1>
 <h3 align="center">I'm a Front End Web Developer, Graphic Designer and Microsoft Learn Beta Student Ambassador.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mekaiser&label=Profile%20views&color=FF6948&style=flat" alt="mekaiser" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mekaiser&label=Profile%20views&color=FF6948&style=flat" alt="mekaiser" /> </p>
 
 - 👨‍💻 Visit my website [https://www.kaiserahmed.xyz/](https://www.kaiserahmed.xyz/)
 
