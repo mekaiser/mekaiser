@@ -26,5 +26,9 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
+
 ---
-<img align="left" alt="mekaiser's Github Stats" src="https://github-readme-stats.app/api?username=mekaiser&show_icons=true&hide_border=true"/>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mekaiser&show_icons=true&locale=en&layout=compact" alt="mekaiser" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mekaiser&show_icons=true&locale=en" alt="mekaiser" /></p>
