@@ -34,6 +34,6 @@
 #### ⭐ Statistics and Languages
 
 <p align="center"> 
-    <img style="margin-right: 1em" src="https://github-readme-stats-wine-rho.vercel.app/api?username=mekaiser&bg_color=00000000&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&icon_color=6381AF&text_color=f2f2f2&hide_title=true&disable_animations=true" alt="mekaiser" width="500"/> 
-    <img style="margin-left: 1em" src="https://github-readme-stats-wine-rho.vercel.app/api/top-langs?username=mekaiser&theme=dark&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000" alt="mekaiser" height="166" />
+    <img src="https://github-readme-stats-wine-rho.vercel.app/api?username=mekaiser&bg_color=00000000&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&icon_color=6381AF&text_color=f2f2f2&hide_title=true&disable_animations=true" alt="mekaiser" width="500"/> 
+    <img src="https://github-readme-stats-wine-rho.vercel.app/api/top-langs?username=mekaiser&theme=dark&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000" alt="mekaiser" height="166" />
 </p>
