@@ -31,5 +31,9 @@
 
 <hr>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mekaiser&show_icons=true&locale=en&layout=compact" alt="mekaiser" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mekaiser&show_icons=true&locale=en" alt="mekaiser" /></p>
+#### ⭐ Statistics and Languages
+
+<p align="center"> 
+    <img src="https://github-readme-stats-wine-rho.vercel.app/api?username=mekaiser&bg_color=00000000&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&icon_color=6381AF&text_color=f2f2f2&hide_title=true&disable_animations=true" alt="mekaiser" width="420"/> 
+    <img src="https://github-readme-stats-wine-rho.vercel.app/api/top-langs?username=mekaiser&theme=dark&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000" alt="mekaiser" height="165" />
+</p>
