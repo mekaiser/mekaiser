@@ -31,7 +31,7 @@
 
 <hr>
 
-#### ⭐ Statistics and Languages
+<h3 align="left">Statistics and Languages:</h3>
 
 <p align="center"> 
     <img src="https://github-readme-stats-wine-rho.vercel.app/api?username=mekaiser&bg_color=00000000&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&icon_color=6381AF&text_color=f2f2f2&hide_title=true&disable_animations=true" alt="mekaiser" width="500"/> 
