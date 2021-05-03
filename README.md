@@ -21,12 +21,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="icons/languages and tools/html5.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="icons/languages and tools/css3.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="icons/languages and tools/Adobe_Illustrator_CC_icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="icons/languages and tools/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank"> <img src="icons/languages and tools/Figma-logo.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="icons/languages and tools/Git_icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="icons/languages and tools/html5.svg" alt="html5" height="30" width="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="icons/languages and tools/css3.svg" alt="css3" height="30" width="40"/> </a> 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="icons/languages and tools/Adobe_Illustrator_CC_icon.svg" alt="illustrator" height="30" width="40"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank"> <img src="icons/languages and tools/Adobe_Photoshop_CC_icon.svg" alt="photoshop" height="30" width="40"/> </a> 
+<a href="https://www.figma.com/" target="_blank"> <img src="icons/languages and tools/Figma-logo.svg" alt="figma" height="30" width="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="icons/languages and tools/Git_icon.svg" alt="git" height="30" width="40"/> </a> 
 </p>
 
 ---
