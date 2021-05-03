@@ -11,7 +11,8 @@
 
 - ⚡ My hobbies are **playing action video games, watching action movies, and listening to music.**
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me
+
 <p align="left">
 <a href="https://twitter.com/inkaiserahmed" target="_blank"><img align="center" src="icons/connections/twitter.svg" alt="inkaiserahmed" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/inkaiserahmed" target="_blank"><img align="center" src="icons/connections/linkedin.svg" alt="inkaiserahmed" height="30" width="40" /></a>
@@ -19,7 +20,8 @@
 <a href="https://www.behance.net/inkaiserahmed" target="_blank"><img align="center" src="icons/connections/behance.svg" alt="inkaiserahmed" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools
+
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="icons/languages and tools/html5.svg" alt="html5" height="30" width="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="icons/languages and tools/css3.svg" alt="css3" height="30" width="40"/> </a> 
@@ -29,9 +31,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="icons/languages and tools/Git_icon.svg" alt="git" height="30" width="40"/> </a> 
 </p>
 
----
-
-<h3 align="left">Statistics and Languages:</h3>
+## Statistics and Languages
 
 <p align="center"> 
     <img src="https://github-readme-stats-wine-rho.vercel.app/api?username=mekaiser&bg_color=00000000&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&icon_color=6381AF&text_color=f2f2f2&hide_title=true&disable_animations=true" alt="mekaiser" width="411"/> 
