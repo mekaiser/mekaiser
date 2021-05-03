@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/inkaiserahmed" target="_blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174876.svg?token=exp=1619999774~hmac=a9fd8b48ac871774fda2d41d4d3ed023" alt="inkaiserahmed" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/inkaiserahmed" target="_blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619999774~hmac=72828982a2a737735647547ba43ab348" alt="inkaiserahmed" height="30" width="40" /></a>
-<a href="https://instagram.com/inkaiserahmed" target="_blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1619999774~hmac=9e8d3e13851add83a6d6d002630c1ee1" alt="inkaiserahmed" height="30" width="40" /></a>
-<a href="https://www.behance.net/inkaiserahmed" target="_blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174837.svg?token=exp=1619999774~hmac=28e9a2764604210fd20f3c3d30d74219" alt="inkaiserahmed" height="30" width="40" /></a>
+<a href="https://twitter.com/inkaiserahmed" target="_blank"><img align="center" src="icons/twitter.svg" alt="inkaiserahmed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/inkaiserahmed" target="_blank"><img align="center" src="icons/linkedin.svg" alt="inkaiserahmed" height="30" width="40" /></a>
+<a href="https://instagram.com/inkaiserahmed" target="_blank"><img align="center" src="icons/instagram.svg" alt="inkaiserahmed" height="30" width="40" /></a>
+<a href="https://www.behance.net/inkaiserahmed" target="_blank"><img align="center" src="icons/behance.svg" alt="inkaiserahmed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
