@@ -5,7 +5,7 @@
 
 - 👨‍💻 Visit my website [https://www.kaiserahmed.xyz/](https://www.kaiserahmed.xyz/)
 
-- 📝 I write tech articles on [http://kaisereduant.blogspot.com/](http://kaisereduant.blogspot.com/)
+- 📝 I write tech articles on [https://kaisereduant.blogspot.com/](https://kaisereduant.blogspot.com/)
 
 - 📫 Reach me at **inkaiserahmed@gmail.com**
 
