@@ -3,7 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mekaiser&label=Profile%20views&color=FF6948&style=flat" alt="mekaiser" /> </p>
 
-<img align="right" src="images/developer.gif" width="360" height="270" alt="GIF"/><br />
+<img align="right" src="images/developer.gif" width="360" height="270" alt="GIF"/>
+
+<br />
 
 - 👨‍💻 Visit my website [https://www.kaiserahmed.xyz/](https://www.kaiserahmed.xyz/)
 
