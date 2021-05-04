@@ -5,7 +5,7 @@
 
 <img align="right" src="images/developer.gif" width="360" height="270" alt="GIF"/>
 
-<br />
+<p>&nbsp;</p>
 
 - 👨‍💻 Visit my website [https://www.kaiserahmed.xyz/](https://www.kaiserahmed.xyz/)
 
