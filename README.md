@@ -24,15 +24,18 @@
 <a href="https://www.behance.net/inkaiserahmed" target="_blank"><img align="center" src="icons/connections/behance.svg" alt="inkaiserahmed" height="30" width="40" /></a>
 </p>
 
-## Technology and Tools
+## Tools and technologies
 
 <p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="icons/languages and tools/html5.svg" alt="html5" height="30" width="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="icons/languages and tools/css3.svg" alt="css3" height="30" width="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="icons/languages and tools/Adobe_Illustrator_CC_icon.svg" alt="illustrator" height="30" width="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="icons/languages and tools/Adobe_Photoshop_CC_icon.svg" alt="photoshop" height="30" width="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank"> <img src="icons/languages and tools/Figma-logo.svg" alt="figma" height="30" width="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="icons/languages and tools/Git_icon.svg" alt="git" height="30" width="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="icons/tools and technologies/html5.svg" alt="html5" height="30" width="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="icons/tools and technologies/css3.svg" alt="css3" height="30" width="40"/> </a>
+<a href="https://www.javascript.com/" target="_blank"> <img src="icons/tools and technologies/javascript.svg" alt="javascript" height="30" width="40"/> </a>
+<a href="https://getbootstrap.com/" target="_blank"> <img src="icons/tools and technologies/bootstrap-5-1.svg" alt="bootstrap" height="30" width="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="icons/tools and technologies/Visual_Studio_Code_1.18_icon.svg" alt="vscode" height="30" width="40"/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="icons/tools and technologies/Figma-logo.svg" alt="figma" height="30" width="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="icons/tools and technologies/Git_icon.svg" alt="git" height="30" width="40"/> </a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="icons/tools and technologies/Adobe_Illustrator_CC_icon.svg" alt="illustrator" height="30" width="40"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank"> <img src="icons/tools and technologies/Adobe_Photoshop_CC_icon.svg" alt="photoshop" height="30" width="40"/> </a>
 </p>
 
 ## Statistics and Languages
