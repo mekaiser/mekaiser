@@ -24,7 +24,7 @@
 <a href="https://www.behance.net/inkaiserahmed" target="_blank"><img align="center" src="icons/connections/behance.svg" alt="inkaiserahmed" height="30" width="40" /></a>
 </p>
 
-## Languages and Tools
+## Technology and Tools
 
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="icons/languages and tools/html5.svg" alt="html5" height="30" width="40"/> </a> 
