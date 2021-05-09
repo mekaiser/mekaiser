@@ -32,8 +32,13 @@
 <a href="https://www.javascript.com/" target="_blank"> <img src="icons/tools and technologies/javascript.svg" alt="javascript" height="30" width="40"/> </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="icons/tools and technologies/bootstrap-5-1.svg" alt="bootstrap" height="30" width="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="icons/tools and technologies/Visual_Studio_Code_1.18_icon.svg" alt="vscode" height="30" width="40"/> </a>
+<a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="icons/tools and technologies/azure.svg" alt="azure" height="30" width="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="icons/tools and technologies/Figma-logo.svg" alt="figma" height="30" width="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="icons/tools and technologies/Git_icon.svg" alt="git" height="30" width="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="icons/tools and technologies/mysql-original-wordmark.svg" alt="mysql" height="30" width="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="icons/tools and technologies/C_Logo.svg" alt="c" height="30" width="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="icons/tools and technologies/C++_Logo.svg" alt="c++" height="30" width="40"/> </a>
+<a href="https://www.java.com/en/" target="_blank"> <img src="icons/tools and technologies/java-original.svg" alt="java" height="30" width="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="icons/tools and technologies/Adobe_Illustrator_CC_icon.svg" alt="illustrator" height="30" width="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="icons/tools and technologies/Adobe_Photoshop_CC_icon.svg" alt="photoshop" height="30" width="40"/> </a>
 </p>
