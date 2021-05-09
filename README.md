@@ -27,8 +27,8 @@
 ## Tools and technologies
 
 <p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="icons/tools and technologies/html5.svg" alt="html5" height="30" width="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="icons/tools and technologies/css3.svg" alt="css3" height="30" width="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="icons/tools and technologies/html5.svg" alt="html5" height="30" width="30"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="icons/tools and technologies/css3.svg" alt="css3" height="30" width="30"/> </a>
 <a href="https://www.javascript.com/" target="_blank"> <img src="icons/tools and technologies/javascript.svg" alt="javascript" height="30" width="40"/> </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="icons/tools and technologies/bootstrap-5-1.svg" alt="bootstrap" height="30" width="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="icons/tools and technologies/Visual_Studio_Code_1.18_icon.svg" alt="vscode" height="30" width="40"/> </a>
