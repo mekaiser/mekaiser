@@ -7,7 +7,7 @@
 
 <p>&nbsp;</p>
 
-- 👨‍💻 Visit my website [https://www.kaiserahmed.xyz/](https://www.kaiserahmed.xyz/)
+- 👨🏻‍💻 Visit my website [https://www.kaiserahmed.xyz/](https://www.kaiserahmed.xyz/)
 
 - 📝 I write tech articles on [https://kaisereduant.blogspot.com/](https://kaisereduant.blogspot.com/)
 
