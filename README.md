@@ -35,7 +35,7 @@
 <a href="https://www.w3schools.com/css/"> <img src="icons/tools and technologies/css3.svg" alt="css3" height="30" width="40"/> </a>
 <a href="https://www.javascript.com/"> <img src="icons/tools and technologies/javascript.svg" alt="javascript" height="30" width="40"/> </a>
 <a href="https://getbootstrap.com/"> <img src="icons/tools and technologies/bootstrap-5-1.svg" alt="bootstrap" height="30" width="40"/> </a>
-<a href="https://reactjs.org/"> <img src="icons/tools and technologies/react-icon.svg" alt="react" height="40" width="40"/> </a>
+<a href="https://reactjs.org/"> <img src="icons/tools and technologies/react-icon.svg" alt="react" height="30" width="40"/> </a>
 <a href="https://react-bootstrap.github.io/"> <img src="icons/tools and technologies/react-bootstrap-icon.svg" alt="react-bootstrap" height="30" width="40"/> </a>
 <a href="https://material-ui.com/"> <img src="icons/tools and technologies/material-ui.svg" alt="material-ui" height="30" width="40"/> </a>
 <a href="https://code.visualstudio.com/"> <img src="icons/tools and technologies/Visual_Studio_Code_1.18_icon.svg" alt="vscode" height="30" width="40"/> </a>
