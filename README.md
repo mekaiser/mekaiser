@@ -9,11 +9,11 @@
 
 <p>&nbsp;</p>
 
-- 👨🏻‍💻 Visit my website [https://www.kaiserahmed.xyz/](https://www.kaiserahmed.xyz/)
+- 👨🏻‍💻 Visit my website [www.kaiserahmed.xyz](https://www.kaiserahmed.xyz/)
 
-- 📝 I write tech articles on [https://kaisereduant.blogspot.com/](https://kaisereduant.blogspot.com/)
+- 📝 I write tech articles on [kaisereduant.blogspot.com](https://kaisereduant.blogspot.com/)
 
-- 🚀 View my resume [https://www.kaiserahmed.xyz/](https://drive.google.com/file/d/1Bw-weGyTAj8kLmYUaPEG25b--2lAxryC/view)
+- 🚀 View my cv/resume [kaiser-cv](https://drive.google.com/file/d/1Bw-weGyTAj8kLmYUaPEG25b--2lAxryC/view)
 
 - 📫 Reach me at **inkaiserahmed@gmail.com**
 
