@@ -13,6 +13,8 @@
 
 - 📝 I write tech articles on [https://kaisereduant.blogspot.com/](https://kaisereduant.blogspot.com/)
 
+- 🚀 View my resume [https://www.kaiserahmed.xyz/](https://drive.google.com/file/d/1Bw-weGyTAj8kLmYUaPEG25b--2lAxryC/view)
+
 - 📫 Reach me at **inkaiserahmed@gmail.com**
 
 - ⚡ My hobbies are **playing action video games, watching action movies, and listening to music.**
