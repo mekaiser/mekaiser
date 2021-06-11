@@ -22,29 +22,33 @@
 ## Connect with me
 
 <p align="left">
-<a href="https://twitter.com/inkaiserahmed" target="_blank"><img align="center" src="icons/connections/twitter.svg" alt="inkaiserahmed" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/inkaiserahmed" target="_blank"><img align="center" src="icons/connections/linkedin.svg" alt="inkaiserahmed" height="30" width="40" /></a>
-<a href="https://instagram.com/inkaiserahmed" target="_blank"><img align="center" src="icons/connections/instagram.svg" alt="inkaiserahmed" height="30" width="40" /></a>
-<a href="https://www.behance.net/inkaiserahmed" target="_blank"><img align="center" src="icons/connections/behance.svg" alt="inkaiserahmed" height="30" width="40" /></a>
+<a href="https://twitter.com/inkaiserahmed"><img align="center" src="icons/connections/twitter.svg" alt="inkaiserahmed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/inkaiserahmed"><img align="center" src="icons/connections/linkedin.svg" alt="inkaiserahmed" height="30" width="40" /></a>
+<a href="https://instagram.com/inkaiserahmed"><img align="center" src="icons/connections/instagram.svg" alt="inkaiserahmed" height="30" width="40" /></a>
+<a href="https://www.behance.net/inkaiserahmed"><img align="center" src="icons/connections/behance.svg" alt="inkaiserahmed" height="30" width="40" /></a>
 </p>
 
 ## Tools and technologies
 
 <p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="icons/tools and technologies/html5.svg" alt="html5" height="30" width="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="icons/tools and technologies/css3.svg" alt="css3" height="30" width="40"/> </a>
-<a href="https://www.javascript.com/" target="_blank"> <img src="icons/tools and technologies/javascript.svg" alt="javascript" height="30" width="40"/> </a>
-<a href="https://getbootstrap.com/" target="_blank"> <img src="icons/tools and technologies/bootstrap-5-1.svg" alt="bootstrap" height="30" width="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="icons/tools and technologies/Visual_Studio_Code_1.18_icon.svg" alt="vscode" height="30" width="40"/> </a>
-<a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="icons/tools and technologies/Azure2021.svg" alt="azure" height="30" width="40"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="icons/tools and technologies/Figma-logo.svg" alt="figma" height="30" width="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="icons/tools and technologies/Git_icon.svg" alt="git" height="30" width="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="icons/tools and technologies/mysql-original-wordmark.svg" alt="mysql" height="30" width="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="icons/tools and technologies/C_Logo.svg" alt="c" height="30" width="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="icons/tools and technologies/C++_Logo.svg" alt="c++" height="30" width="40"/> </a>
-<a href="https://www.java.com/en/" target="_blank"> <img src="icons/tools and technologies/java-original.svg" alt="java" height="30" width="40"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="icons/tools and technologies/Adobe_Illustrator_CC_icon.svg" alt="illustrator" height="30" width="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="icons/tools and technologies/Adobe_Photoshop_CC_icon.svg" alt="photoshop" height="30" width="40"/> </a>
+<a href="https://www.w3.org/html/"> <img src="icons/tools and technologies/html5.svg" alt="html5" height="30" width="40"/> </a> 
+<a href="https://www.w3schools.com/css/"> <img src="icons/tools and technologies/css3.svg" alt="css3" height="30" width="40"/> </a>
+<a href="https://www.javascript.com/"> <img src="icons/tools and technologies/javascript.svg" alt="javascript" height="30" width="40"/> </a>
+<a href="https://getbootstrap.com/"> <img src="icons/tools and technologies/bootstrap-5-1.svg" alt="bootstrap" height="30" width="40"/> </a>
+<a href="https://reactjs.org/"> <img src="icons/tools and technologies/react-icon.svg" alt="react" height="30" width="40"/> </a>
+<a href="https://react-bootstrap.github.io/"> <img src="icons/tools and technologies/react-bootstrap-icon.svg" alt="react-bootstrap" height="30" width="40"/> </a>
+<a href="https://material-ui.com/"> <img src="icons/tools and technologies/material-ui.svg" alt="material-ui" height="30" width="40"/> </a>
+<a href="https://code.visualstudio.com/"> <img src="icons/tools and technologies/Visual_Studio_Code_1.18_icon.svg" alt="vscode" height="30" width="40"/> </a>
+<a href="https://azure.microsoft.com/en-us/"> <img src="icons/tools and technologies/Azure2021.svg" alt="azure" height="30" width="40"/> </a>
+<a href="https://www.figma.com/"> <img src="icons/tools and technologies/Figma-logo.svg" alt="figma" height="30" width="40"/> </a>
+<a href="https://git-scm.com/"> <img src="icons/tools and technologies/Git_icon.svg" alt="git" height="30" width="40"/> </a>
+<a href="https://www.mysql.com/"> <img src="icons/tools and technologies/mysql-original-wordmark.svg" alt="mysql" height="30" width="40"/> </a>
+<a href="https://www.cprogramming.com/"> <img src="icons/tools and technologies/C_Logo.svg" alt="c" height="30" width="40"/> </a>
+<a href="https://www.w3schools.com/cpp/"> <img src="icons/tools and technologies/C++_Logo.svg" alt="c++" height="30" width="40"/> </a>
+<a href="https://www.java.com/en/"> <img src="icons/tools and technologies/java-original.svg" alt="java" height="30" width="40"/> </a>
+<a href="https://www.adobe.com/in/products/illustrator.html"> <img src="icons/tools and technologies/Adobe_Illustrator_CC_icon.svg" alt="illustrator" height="30" width="40"/> </a>
+<a href="https://www.photoshop.com/en"> <img src="icons/tools and technologies/Adobe_Photoshop_CC_icon.svg" alt="photoshop" height="30" width="40"/> </a>
+
 </p>
 
 ## Statistics and Languages
