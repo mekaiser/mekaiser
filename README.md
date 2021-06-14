@@ -40,6 +40,7 @@
 <a href="https://material-ui.com/"> <img src="icons/tools and technologies/material-ui.svg" alt="material-ui" height="30" width="40"/> </a>
 <a href="https://code.visualstudio.com/"> <img src="icons/tools and technologies/Visual_Studio_Code_1.18_icon.svg" alt="vscode" height="30" width="40"/> </a>
 <a href="https://azure.microsoft.com/en-us/"> <img src="icons/tools and technologies/Azure2021.svg" alt="azure" height="30" width="40"/> </a>
+<a href="https://firebase.google.com/"> <img src="icons/tools and technologies/firebase.svg" alt="firebase" height="30" width="40"/> </a>
 <a href="https://www.figma.com/"> <img src="icons/tools and technologies/Figma-logo.svg" alt="figma" height="30" width="40"/> </a>
 <a href="https://git-scm.com/"> <img src="icons/tools and technologies/Git_icon.svg" alt="git" height="30" width="40"/> </a>
 <a href="https://www.mysql.com/"> <img src="icons/tools and technologies/mysql-original-wordmark.svg" alt="mysql" height="30" width="40"/> </a>

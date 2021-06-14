@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 373 512" style="enable-background:new 0 0 373 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFC24A;}
+	.st1{fill:#FFA712;}
+	.st2{filter:url(#B);}
+	.st3{fill:#F4BD62;}
+	.st4{fill:#FFA50E;}
+	.st5{filter:url(#A);}
+	.st6{fill:#F6820C;}
+	.st7{fill:#FDE068;}
+	.st8{fill:#FCCA3F;}
+	.st9{fill:#EEAB37;}
+</style>
+<filter  height="2" id="B" width="2" x="-.5" y="-.5">
+	<feGaussianBlur  in="SourceAlpha" stdDeviation="17.5"></feGaussianBlur>
+	<feOffset></feOffset>
+	<feComposite  in2="SourceAlpha" k1="0" k2="-1" k3="1" k4="0" operator="arithmetic"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.06 0"></feColorMatrix>
+</filter>
+<filter  height="2" id="A" width="2" x="-.5" y="-.5">
+	<feGaussianBlur  in="SourceAlpha" stdDeviation="3.5"></feGaussianBlur>
+	<feOffset  dx="1" dy="-9"></feOffset>
+	<feComposite  in2="SourceAlpha" k1="0" k2="-1" k3="1" k4="0" operator="arithmetic"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.09 0"></feColorMatrix>
+</filter>
+<g transform="matrix(.090203 0 0 .090203 11.921255 15.418666)">
+	<path class="st0" d="M-132.2,4410.6l34.4-48.1l1625.5-3084.3l3.4-32.7L814.6-100.4c-60.1-112.7-229.1-84.2-248.8,42L-132.2,4410.6z
+		"/>
+	<g>
+		<path id="D" class="st1" d="M-111.9,4373.9l26-50.7l1608.3-3052L807.8-80.1c-59.4-111.6-210.3-83.1-229.9,41.8L-111.9,4373.9z"/>
+	</g>
+	<g class="st2">
+		<g>
+			<path id="D_2_" d="M-111.9,4373.9l26-50.7l1608.3-3052L807.8-80.1c-59.4-111.6-210.3-83.1-229.9,41.8L-111.9,4373.9z"/>
+		</g>
+	</g>
+	<path class="st3" d="M2053.5,2263.6l533.5-546.4L2053.3,698.4c-50.7-96.4-192.1-96.7-242.2,0l-285.1,544v46.3L2053.5,2263.6z"/>
+	<g>
+		<path id="C" class="st4" d="M2044,2240.9l518.7-531.2L2044,722c-49.2-93.9-168.9-103.6-217.6-9.7l-286.6,552.1l-8.6,28.2
+			L2044,2240.9z"/>
+	</g>
+	<g class="st5">
+		<g>
+			<path id="C_2_" d="M2044,2240.9l518.7-531.2L2044,722c-49.2-93.9-168.9-103.6-217.6-9.7l-286.6,552.1l-8.6,28.2L2044,2240.9z"/>
+		</g>
+	</g>
+	<path class="st6" d="M1527.5,1239.2L-132.2,4410.6l15.6-15.7l56.6-23l2080-2072.2l26.3-71.7L1527.5,1239.2z"/>
+	<path class="st7" d="M2120.1,5455.7l1882.4-1049.8l-537.4-3310.7c-16.8-103.6-143.9-144.5-218-70.3L-132.2,4410.6l1871.6,1045
+		C1857.7,5521.6,2001.8,5521.7,2120.1,5455.7"/>
+	<path class="st8" d="M3985.7,4397l-533.5-3285.5c-16.7-102.8-122.4-145.3-196-71.6L-111.1,4404.2l1851.1,1034.5
+		c117.4,65.5,260.3,65.6,377.8,0.1L3985.7,4397z"/>
+	<path class="st9" d="M2120.1,5424.7c-118.2,66-262.4,66-380.7-0.1L-117.1,4394.7l-15.1,15.9l1871.6,1045
+		c118.3,66.1,262.3,66.1,380.7,0.1l1882.4-1049.8l-4.6-28.4L2120.1,5424.7z"/>
+</g>
+</svg>
