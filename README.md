@@ -43,7 +43,7 @@
 <a href="https://firebase.google.com/"> <img src="icons/tools and technologies/firebase.svg" alt="firebase" height="30" width="40"/> </a>
 <a href="https://www.figma.com/"> <img src="icons/tools and technologies/Figma-logo.svg" alt="figma" height="30" width="40"/> </a>
 <a href="https://git-scm.com/"> <img src="icons/tools and technologies/Git_icon.svg" alt="git" height="30" width="40"/> </a>
-<a href="https://www.mysql.com/"> <img src="icons/tools and technologies/mysql-original-wordmark.svg" alt="mysql" height="30" width="40"/> </a>
+<a href="https://www.mysql.com/"> <img src="icons/tools and technologies/mysql-icon.svg" alt="mysql" height="30" width="40"/> </a>
 <a href="https://www.cprogramming.com/"> <img src="icons/tools and technologies/C_Logo.svg" alt="c" height="30" width="40"/> </a>
 <a href="https://www.w3schools.com/cpp/"> <img src="icons/tools and technologies/C++_Logo.svg" alt="c++" height="30" width="40"/> </a>
 <a href="https://www.java.com/en/"> <img src="icons/tools and technologies/java-original.svg" alt="java" height="30" width="40"/> </a>
