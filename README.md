@@ -30,20 +30,24 @@
 
 ## Tools and technologies
 
-<p align="left"> 
-<a href="https://www.w3.org/html/"> <img src="icons/tools and technologies/html5.svg" alt="html5" height="30" width="40"/> </a> 
+<p align="left">
+
+<a href="https://www.w3.org/html/"> <img src="icons/tools and technologies/html5.svg" alt="html5" height="30" width="40"/> </a>
 <a href="https://www.w3schools.com/css/"> <img src="icons/tools and technologies/css3.svg" alt="css3" height="30" width="40"/> </a>
 <a href="https://www.javascript.com/"> <img src="icons/tools and technologies/javascript.svg" alt="javascript" height="30" width="40"/> </a>
 <a href="https://getbootstrap.com/"> <img src="icons/tools and technologies/bootstrap-5-1.svg" alt="bootstrap" height="30" width="40"/> </a>
 <a href="https://reactjs.org/"> <img src="icons/tools and technologies/react-icon.svg" alt="react" height="30" width="40"/> </a>
 <a href="https://react-bootstrap.github.io/"> <img src="icons/tools and technologies/react-bootstrap-icon.svg" alt="react-bootstrap" height="30" width="40"/> </a>
 <a href="https://material-ui.com/"> <img src="icons/tools and technologies/material-ui.svg" alt="material-ui" height="30" width="40"/> </a>
-<a href="https://code.visualstudio.com/"> <img src="icons/tools and technologies/Visual_Studio_Code_1.18_icon.svg" alt="vscode" height="30" width="40"/> </a>
-<a href="https://azure.microsoft.com/en-us/"> <img src="icons/tools and technologies/Azure2021.svg" alt="azure" height="30" width="40"/> </a>
+<a href="https://nodejs.org/en/"> <img src="icons/tools and technologies/nodejs-logo.svg" alt="nodejs" height="30" width="40"/> </a>
 <a href="https://firebase.google.com/"> <img src="icons/tools and technologies/firebase.svg" alt="firebase" height="30" width="40"/> </a>
-<a href="https://www.figma.com/"> <img src="icons/tools and technologies/Figma-logo.svg" alt="figma" height="30" width="40"/> </a>
 <a href="https://git-scm.com/"> <img src="icons/tools and technologies/Git_icon.svg" alt="git" height="30" width="40"/> </a>
+<a href="https://www.mongodb.com/"> <img src="icons/tools and technologies/mongodb-logo.svg" alt="mongodb" height="30" width="40"/> </a>
 <a href="https://www.mysql.com/"> <img src="icons/tools and technologies/mysql-icon.svg" alt="mysql" height="30" width="40"/> </a>
+<a href="https://code.visualstudio.com/"> <img src="icons/tools and technologies/Visual_Studio_Code_1.18_icon.svg" alt="vscode" height="30" width="40"/> </a>
+<a href="https://www.postman.com/"> <img src="icons/tools and technologies/postman.svg" alt="postman" height="30" width="40"/> </a>
+<a href="https://azure.microsoft.com/en-us/"> <img src="icons/tools and technologies/Azure2021.svg" alt="azure" height="30" width="40"/> </a>
+<a href="https://www.figma.com/"> <img src="icons/tools and technologies/Figma-logo.svg" alt="figma" height="30" width="40"/> </a>
 <a href="https://www.cprogramming.com/"> <img src="icons/tools and technologies/C_Logo.svg" alt="c" height="30" width="40"/> </a>
 <a href="https://www.w3schools.com/cpp/"> <img src="icons/tools and technologies/C++_Logo.svg" alt="c++" height="30" width="40"/> </a>
 <a href="https://www.java.com/en/"> <img src="icons/tools and technologies/java-original.svg" alt="java" height="30" width="40"/> </a>
