@@ -47,10 +47,11 @@
 <a href="https://code.visualstudio.com/"> <img src="icons/tools and technologies/Visual_Studio_Code_1.18_icon.svg" alt="vscode" height="30" width="40"/> </a>
 <a href="https://www.postman.com/"> <img src="icons/tools and technologies/postman.svg" alt="postman" height="30" width="40"/> </a>
 <a href="https://azure.microsoft.com/en-us/"> <img src="icons/tools and technologies/Azure2021.svg" alt="azure" height="30" width="40"/> </a>
-<a href="https://www.figma.com/"> <img src="icons/tools and technologies/Figma-logo.svg" alt="figma" height="30" width="40"/> </a>
+<a href="https://www.heroku.com/"> <img src="icons/tools and technologies/heroku-logo.svg" alt="heroku" height="30" width="40"/> </a>
 <a href="https://www.cprogramming.com/"> <img src="icons/tools and technologies/C_Logo.svg" alt="c" height="30" width="40"/> </a>
 <a href="https://www.w3schools.com/cpp/"> <img src="icons/tools and technologies/C++_Logo.svg" alt="c++" height="30" width="40"/> </a>
 <a href="https://www.java.com/en/"> <img src="icons/tools and technologies/java-original.svg" alt="java" height="30" width="40"/> </a>
+<a href="https://www.figma.com/"> <img src="icons/tools and technologies/Figma-logo.svg" alt="figma" height="30" width="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html"> <img src="icons/tools and technologies/Adobe_Illustrator_CC_icon.svg" alt="illustrator" height="30" width="40"/> </a>
 <a href="https://www.photoshop.com/en"> <img src="icons/tools and technologies/Adobe_Photoshop_CC_icon.svg" alt="photoshop" height="30" width="40"/> </a>
 
