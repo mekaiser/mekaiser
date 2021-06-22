@@ -1,7 +1,7 @@
 ![S M Kaiser Ahmed](https://raw.githubusercontent.com/mekaiser/mekaiser/main/images/github-banner.jpg)
 
 <h1 align="center">Hey there <img src="icons/wave.gif" height="40" width="40">, I'm <span style='color: #ff674a'>Kaiser<span></h1>
-<h3 align="center">I'm a Full-Stack (MERN) Developer, Graphic Designer and Microsoft Learn Beta Student Ambassador.</h3>
+<h3 align="center">I'm a Full-Stack (MERN) Web Developer, Graphic Designer and Microsoft Learn Beta Student Ambassador.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mekaiser&label=Profile%20views&color=FF6948&style=flat" alt="mekaiser" /> </p>
 
