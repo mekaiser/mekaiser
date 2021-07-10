@@ -37,8 +37,10 @@
 <a href="https://www.javascript.com/"> <img src="icons/tools and technologies/javascript.svg" alt="javascript" height="30" width="40"/> </a>
 <a href="https://getbootstrap.com/"> <img src="icons/tools and technologies/bootstrap-5-1.svg" alt="bootstrap" height="30" width="40"/> </a>
 <a href="https://reactjs.org/"> <img src="icons/tools and technologies/react-icon.svg" alt="react" height="30" width="40"/> </a>
+<a href="https://redux.js.org/"> <img src="icons/tools and technologies/redux.svg" alt="redux" height="30" width="40"/> </a>
 <a href="https://react-bootstrap.github.io/"> <img src="icons/tools and technologies/react-bootstrap-icon.svg" alt="react-bootstrap" height="30" width="40"/> </a>
 <a href="https://material-ui.com/"> <img src="icons/tools and technologies/material-ui.svg" alt="material-ui" height="30" width="40"/> </a>
+<a href="https://sass-lang.com/"> <img src="icons/tools and technologies/sass.svg" alt="sass" height="30" width="40"/> </a>
 <a href="https://nodejs.org/en/"> <img src="icons/tools and technologies/nodejs-logo.svg" alt="nodejs" height="30" width="40"/> </a>
 <a href="https://firebase.google.com/"> <img src="icons/tools and technologies/firebase.svg" alt="firebase" height="30" width="40"/> </a>
 <a href="https://git-scm.com/"> <img src="icons/tools and technologies/Git_icon.svg" alt="git" height="30" width="40"/> </a>
