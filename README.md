@@ -9,7 +9,7 @@
 
 <p>&nbsp;</p>
 
-- 👨🏻‍💻 Visit my website **[www.kaiserahmed.xyz](https://www.kaiserahmed.xyz/)**
+- 👨🏻‍💻 Visit my portfolio **[www.kaiserahmed.xyz](https://www.kaiserahmed.xyz/)**
 
 - 📝 I write tech articles on **[kaisereduant.blogspot.com](https://kaisereduant.blogspot.com/)**
 
