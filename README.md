@@ -11,7 +11,7 @@
 
 - 👨🏻‍💻 Visit my portfolio **[www.kaiserahmed.xyz](https://www.kaiserahmed.xyz/)**
 
-- 📝 I write tech articles on **[kaisereduant.blogspot.com](https://kaisereduant.blogspot.com/)**
+- 📝 I write tech articles on **[medium](https://medium.com/@inkaiserahmed)**
 
 - 🚀 View my cv/resume **[kaiser-cv](https://drive.google.com/file/d/1-JBjMubIvOJFjDPN-YqToZXz3-baydhW/view)**
 
