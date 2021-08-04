@@ -49,6 +49,15 @@
 
 </p>
 
+## Favorite Projects
+
+- [Enfix Electronics Repair Site](https://github.com/mekaiser/enfix-client)
+- [Silotech E-commerce Site](https://github.com/mekaiser/silotech-client)
+- [React Typescript To-Do App](https://github.com/mekaiser/to-do-app)
+- [Ema John E-commerce Site](https://github.com/mekaiser/ema-john-react)
+- [Doctor's Portal Site](https://github.com/mekaiser/doctors-portal-client)
+- [Backpack Moon Single Page Site](https://github.com/mekaiser/backpack-moon-website)
+
 ## Statistics and Languages
 
 <p align="center"> 
