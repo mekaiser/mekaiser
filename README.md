@@ -30,10 +30,21 @@
 
 ## Tools and technologies
 
+### Expertise
+
 <p align="left">
 
 <a href="https://www.w3.org/html/"> <img src="icons/tools and technologies/html5.svg" alt="html5" height="30" width="40"/> </a>
 <a href="https://www.w3schools.com/css/"> <img src="icons/tools and technologies/css3.svg" alt="css3" height="30" width="40"/> </a>
+<a href="https://getbootstrap.com/"> <img src="icons/tools and technologies/bootstrap-5-1.svg" alt="bootstrap5" height="30" width="40"/> </a>
+<a href="https://sass-lang.com/"> <img src="icons/tools and technologies/sass.svg" alt="sass" height="30" width="40"/> </a>
+<a href="https://www.javascript.com/"> <img src="icons/tools and technologies/javascript.svg" alt="javascript" height="30" width="40"/> </a>
+<a href="https://reactjs.org/"> <img src="icons/tools and technologies/react-icon.svg" alt="reactjs" height="30" width="40"/> </a>
+<a href="https://www.mongodb.com/"> <img src="icons/tools and technologies/mongodb.svg" alt="mongodb" height="30" width="40"/> </a>
+<a href="https://nodejs.org/en/"> <img src="icons/tools and technologies/nodejs.svg" alt="nodejs" height="30" width="40"/> </a>
+<a href="https://expressjs.com/"> <img src="icons/tools and technologies/expressjs.svg" alt="nodejs" height="30" width="40"/> </a>
+
+<!-- <a href="https://www.w3schools.com/css/"> <img src="icons/tools and technologies/css3.svg" alt="css3" height="30" width="40"/> </a>
 <a href="https://www.javascript.com/"> <img src="icons/tools and technologies/javascript.svg" alt="javascript" height="30" width="40"/> </a>
 <a href="https://getbootstrap.com/"> <img src="icons/tools and technologies/bootstrap-5-1.svg" alt="bootstrap" height="30" width="40"/> </a>
 <a href="https://reactjs.org/"> <img src="icons/tools and technologies/react-icon.svg" alt="react" height="30" width="40"/> </a>
@@ -45,7 +56,7 @@
 <a href="https://azure.microsoft.com/en-us/"> <img src="icons/tools and technologies/Azure2021.svg" alt="azure" height="30" width="40"/> </a>
 <a href="https://www.figma.com/"> <img src="icons/tools and technologies/Figma-logo.svg" alt="figma" height="30" width="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html"> <img src="icons/tools and technologies/Adobe_Illustrator_CC_icon.svg" alt="illustrator" height="30" width="40"/> </a>
-<a href="https://www.photoshop.com/en"> <img src="icons/tools and technologies/Adobe_Photoshop_CC_icon.svg" alt="photoshop" height="30" width="40"/> </a>
+<a href="https://www.photoshop.com/en"> <img src="icons/tools and technologies/Adobe_Photoshop_CC_icon.svg" alt="photoshop" height="30" width="40"/> </a> -->
 
 </p>
 
