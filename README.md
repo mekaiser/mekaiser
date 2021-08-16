@@ -40,7 +40,7 @@
 <a href="https://sass-lang.com/"> <img src="icons/tools and technologies/sass.svg" alt="sass" height="30" width="40"/> </a>
 <a href="https://www.javascript.com/"> <img src="icons/tools and technologies/javascript.svg" alt="javascript" height="30" width="40"/> </a>
 <a href="https://reactjs.org/"> <img src="icons/tools and technologies/react-icon.svg" alt="reactjs" height="30" width="40"/> </a>
-<a href="https://www.mongodb.com/"> <img src="icons/tools and technologies/mongodb.svg" alt="mongodb" height="30" width="40"/> </a>
+<a href="https://www.mongodb.com/"> <img src="icons/tools and technologies/mongodb.svg" alt="mongodb" height="30" width="30"/> </a>
 <a href="https://nodejs.org/en/"> <img src="icons/tools and technologies/nodejs.svg" alt="nodejs" height="30" width="40"/> </a>
 <a href="https://expressjs.com/"> <img src="icons/tools and technologies/expressjs.svg" alt="nodejs" height="30" width="40"/> </a>
 
