@@ -19,7 +19,7 @@
 
 - ⚡ My hobbies are **playing action video games, watching action movies, and listening to music.**
 
-## Connect with me
+## Connect With Me
 
 <p align="left">
 <a href="https://twitter.com/inkaiserahmed"><img align="center" src="icons/connections/twitter.svg" alt="inkaiserahmed" height="30" width="40" /></a>
@@ -28,9 +28,9 @@
 <a href="https://www.behance.net/inkaiserahmed"><img align="center" src="icons/connections/behance.svg" alt="inkaiserahmed" height="30" width="40" /></a>
 </p>
 
-## Tools and technologies
+## Tools And Technologies
 
-### Expertise
+### ▶ Expertise
 
 <p align="left">
 
@@ -60,6 +60,49 @@
 
 </p>
 
+### ▶ Comfortable
+
+<p align="left">
+
+<a href="https://www.typescriptlang.org/"> <img src="icons/tools and technologies/typescript.svg" alt="typescript" height="30" width="40"/> </a>
+<a href="https://redux.js.org/"> <img src="icons/tools and technologies/redux.svg" alt="redux" height="30" width="40"/> </a>
+<a href="https://material-ui.com/"> <img src="icons/tools and technologies/material-ui.svg" alt="materialui" height="30" width="40"/> </a>
+
+</p>
+
+### ▶ Familiar
+
+<p align="left">
+
+<a href="https://www.typescriptlang.org/"> <img src="icons/tools and technologies/nextjs.svg" alt="nextjs" height="30" width="40"/> </a>
+<a href="https://reactnative.dev/"> <img src="icons/tools and technologies/react-native.svg" alt="react-native" height="30" width="40"/> </a>
+<a href="https://azure.microsoft.com/en-us/"> <img src="icons/tools and technologies/azure.svg" alt="azure" height="30" width="40"/> </a>
+<a href="https://wordpress.org/download/"> <img src="icons/tools and technologies/wordpress.svg" alt="wordpress" height="30" width="40"/> </a>
+
+</p>
+
+### ▶ Tools
+
+<p align="left">
+
+<a href="https://code.visualstudio.com/"> <img src="icons/tools and technologies/vscode.svg" alt="vscode" height="30" width="40"/> </a>
+<a href="https://git-scm.com/"> <img src="icons/tools and technologies/git.svg" alt="git" height="30" width="40"/> </a>
+<a href="https://firebase.google.com/"> <img src="icons/tools and technologies/firebase.svg" alt="firebase" height="30" width="40"/> </a>
+<a href="https://heroku.com/"> <img src="icons/tools and technologies/heroku.svg" alt="heroku" height="30" width="40"/> </a>
+<a href="https://www.netlify.com/"> <img src="icons/tools and technologies/netlify.svg" alt="netlify" height="30" width="40"/> </a>
+
+</p>
+
+### ▶ Designs
+
+<p align="left">
+
+<a href="https://www.figma.com/"> <img src="icons/tools and technologies/figma.svg" alt="figma" height="30" width="40"/> </a>
+<a href="https://www.adobe.com/in/products/illustrator.html"> <img src="icons/tools and technologies/illustrator.svg" alt="illustrator" height="30" width="40"/> </a>
+<a href="https://www.photoshop.com/en"> <img src="icons/tools and technologies/photoshop.svg" alt="photoshop" height="30" width="40"/> </a>
+
+</p>
+
 ## Favorite Projects
 
 - [Enfix Electronics Repair Site](https://github.com/mekaiser/enfix-client)
@@ -69,7 +112,7 @@
 - [Doctor's Portal Site](https://github.com/mekaiser/doctors-portal-client)
 - [Backpack Moon Single Page Site](https://github.com/mekaiser/backpack-moon-website)
 
-## Statistics and Languages
+## Statistics And Languages
 
 <p align="center"> 
     <img src="https://github-readme-stats-mekaiser.vercel.app/api?username=mekaiser&bg_color=00000000&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&icon_color=6381AF&text_color=f2f2f2&hide_title=true&disable_animations=true" alt="mekaiser" width="411"/> 
