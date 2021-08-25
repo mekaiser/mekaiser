@@ -30,7 +30,7 @@
 
 ## Tools And Technologies
 
-### 💡 Expertise
+### ⚡ Expertise
 
 <p align="left">
 
@@ -46,7 +46,7 @@
 
 </p>
 
-### 💡 Comfortable
+### ⚡ Comfortable
 
 <p align="left">
 
