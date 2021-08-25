@@ -46,7 +46,7 @@
 
 </p>
 
-### 🞂 Comfortable
+### 💡 Comfortable
 
 <p align="left">
 
@@ -56,7 +56,7 @@
 
 </p>
 
-### 🞂 Familiar
+### 💡 Familiar
 
 <p align="left">
 
@@ -67,7 +67,7 @@
 
 </p>
 
-### 🞂 Tools
+### 💡 Tools
 
 <p align="left">
 
@@ -79,7 +79,7 @@
 
 </p>
 
-### 🞂 Designs
+### 💡 Designs
 
 <p align="left">
 
