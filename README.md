@@ -30,7 +30,7 @@
 
 ## Tools And Technologies
 
-### 🞂 Expertise
+### 💡 Expertise
 
 <p align="left">
 
