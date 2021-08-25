@@ -17,7 +17,7 @@
 
 - 📫 Reach me at **inkaiserahmed@gmail.com**
 
-- ⚡ My hobbies are **playing action video games, watching action movies, and listening to music.**
+- 💡 My hobbies are **playing action video games, watching action movies, and listening to music.**
 
 ## Connect With Me
 
@@ -56,7 +56,7 @@
 
 </p>
 
-### 💡 Familiar
+### ⚡ Familiar
 
 <p align="left">
 
@@ -67,7 +67,7 @@
 
 </p>
 
-### 💡 Tools
+### ⚡ Tools
 
 <p align="left">
 
@@ -79,7 +79,7 @@
 
 </p>
 
-### 💡 Designs
+### ⚡ Designs
 
 <p align="left">
 
