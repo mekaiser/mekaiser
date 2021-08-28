@@ -13,7 +13,7 @@
 
 - 📝 I write tech articles on **[medium](https://medium.com/@inkaiserahmed)**
 
-- 🚀 View my cv/resume **[kaiser-cv](https://drive.google.com/file/d/1-FzyUxuz-XW1jVpME5-OpORiJLSkryJm/view)**
+- 🚀 View my cv/resume **[s_m_kaiser_ahmed_cv](https://drive.google.com/file/d/1uL1ggmB6BgkLnl3oVUCTxG4uNxIUyNjR/view)**
 
 - 📫 Reach me at **inkaiserahmed@gmail.com**
 
