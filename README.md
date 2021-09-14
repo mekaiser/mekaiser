@@ -91,7 +91,7 @@
 
 ## Favorite Projects
 
-- [Netflix Clone](https://netflixclonex.firebaseapp.com)
+- [Netflix Clone](https://github.com/mekaiser/netflix-clone)
 - [Enfix Electronics Repair Site](https://github.com/mekaiser/enfix-client)
 - [Silotech E-commerce Site](https://github.com/mekaiser/silotech-client)
 - [React Typescript To-Do App](https://github.com/mekaiser/to-do-app)
