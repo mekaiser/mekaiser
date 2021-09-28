@@ -3,7 +3,7 @@
 <h1 align="center">Hey there <img src="icons/wave.gif" height="40" width="40">, I'm Kaiser</h1>
 <h3 align="center">I'm a MERN Stack Developer, Graphic Designer and Microsoft Learn Beta Student Ambassador.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mekaiser&label=Profile%20views&color=FF6948&style=flat" alt="mekaiser" /> </p>
+<p>&nbsp;</p>
 
 <img align="right" src="images/developer.gif" width="360" height="270" alt="GIF"/>
 
