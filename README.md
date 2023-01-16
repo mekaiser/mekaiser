@@ -1,7 +1,7 @@
 ![S M Kaiser Ahmed](https://raw.githubusercontent.com/mekaiser/mekaiser/main/images/github-cover-2022-v1.jpg)
 
 <h1 align="center">Hey there <img src="icons/wave.gif" height="40" width="40">, I'm Kaiser</h1>
-<h3 align="center">I'm a MERN Stack Developer, Graphic Designer and Microsoft Learn Beta Student Ambassador.</h3>
+<h3 align="center">I'm a Full Stack Developer, Graphic Designer and Microsoft Learn Beta Student Ambassador.</h3>
 
 <p>&nbsp;</p>
 
