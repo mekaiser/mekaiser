@@ -94,7 +94,7 @@
 
 - [Promptnest](https://github.com/mekaiser/promptnest)
 - [Slack Clone](https://github.com/mekaiser/slack-clone)
-- [Enfix](https://github.com/mekaiser/enfix-client)
+- [Netflix Clone](https://github.com/mekaiser/netflix-clone)
 - [React Typescript To-Do App](https://github.com/mekaiser/to-do-app)
 
 ## Statistics And Languages
