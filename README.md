@@ -92,12 +92,10 @@
 
 ## Favorite Projects
 
-- [Netflix Clone](https://github.com/mekaiser/netflix-clone)
-- [Enfix Electronics Repair Site](https://github.com/mekaiser/enfix-client)
-- [Silotech E-commerce Site](https://github.com/mekaiser/silotech-client)
+- [Promptnest](https://github.com/mekaiser/promptnest)
+- [Slack Clone](https://github.com/mekaiser/slack-clone)
+- [Enfix](https://github.com/mekaiser/enfix-client)
 - [React Typescript To-Do App](https://github.com/mekaiser/to-do-app)
-- [Ema John E-commerce Site](https://github.com/mekaiser/ema-john-react)
-- [Backpack Moon Single Page Site](https://github.com/mekaiser/backpack-moon-website)
 
 ## Statistics And Languages
 
