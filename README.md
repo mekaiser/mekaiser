@@ -6,7 +6,7 @@ I am a Full Stack Developer who strives to build highly functional, immersive an
 
 I have an immense interest in Web Development, UI/UX Design, and Cloud Computing. I love collaborating with new people, having quality talk, and making moments worthy and lively.
 
-📭 Reach Out: inkaiserahmed@gmail.com
+📭 Reach Out: inkaiserahmed@gmail.com <br/>
 🚀 Resume: [s_m_kaiser_ahmed_cv](https://drive.google.com/file/d/1uL1ggmB6BgkLnl3oVUCTxG4uNxIUyNjR/view)
 
 [![kaiserahmed.vercel.app](https://img.shields.io/badge/kaiserahmed.vercel.app-211e1b?style=for-the-badge&link=https://kaiserahmed.vercel.app/)](https://kaiserahmed.vercel.app/) [![inkaiserahmed](https://img.shields.io/badge/inkaiserahmed-211e1b?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/inkaiserahmed/)](https://www.linkedin.com/in/inkaiserahmed/)
