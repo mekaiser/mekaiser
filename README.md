@@ -27,6 +27,9 @@ I have an immense interest in Web Development, UI/UX Design, and Cloud Computing
 
 ## Statistics And Languages
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="center"> 
     <img src="https://github-readme-stats-mekaiser.vercel.app/api?username=mekaiser&bg_color=00000000&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&icon_color=6381AF&text_color=f2f2f2&hide_title=true&disable_animations=true" alt="mekaiser" width="411"/> 
     <img src="https://github-readme-stats-mekaiser.vercel.app/api/top-langs?username=mekaiser&theme=dark&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000" alt="mekaiser" height="136" />
