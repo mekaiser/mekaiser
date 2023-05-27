@@ -31,3 +31,12 @@ I have an immense interest in Web Development, UI/UX Design, and Cloud Computing
     <img src="https://github-readme-stats-mekaiser.vercel.app/api?username=mekaiser&bg_color=00000000&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&icon_color=6381AF&text_color=f2f2f2&hide_title=true&disable_animations=true" alt="mekaiser" width="411"/> 
     <img src="https://github-readme-stats-mekaiser.vercel.app/api/top-langs?username=mekaiser&theme=dark&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000" alt="mekaiser" height="136" />
 </p>
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ https://home.aveek.io/GitHub-Profile-Badges/ -->
+<!-- Trophies: https://github.com/ryo-ma/github-profile-trophy -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/ awesome-github-profile-readme -->
