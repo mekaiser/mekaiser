@@ -8,7 +8,7 @@ I have an immense interest in Web Development, UI/UX Design, and Cloud Computing
 
 📭 Reach Out: inkaiserahmed@gmail.com
 
-[![kaiserahmed.vercel.app](https://img.shields.io/badge/kaiserahmed.vercel.app-211e1b?style=for-the-badge&link=https://kaiserahmed.vercel.app/)](https://kaiserahmed.vercel.app/)
+[![kaiserahmed.vercel.app](https://img.shields.io/badge/kaiserahmed.vercel.app-211e1b?style=for-the-badge&link=https://kaiserahmed.vercel.app/)](https://kaiserahmed.vercel.app/) [![inkaiserahmed](https://img.shields.io/badge/inkaiserahmed-211e1b?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/inkaiserahmed/)](https://www.linkedin.com/in/inkaiserahmed/)
 
 <p>&nbsp;</p>
 
