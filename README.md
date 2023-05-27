@@ -9,7 +9,7 @@ I have an immense interest in Web Development, UI/UX Design, and Cloud Computing
 📭 Reach Out: inkaiserahmed@gmail.com <br/>
 🚀 Resume: [s_m_kaiser_ahmed_cv](https://drive.google.com/file/d/1uL1ggmB6BgkLnl3oVUCTxG4uNxIUyNjR/view)
 
-[![kaiserahmed.vercel.app](https://img.shields.io/badge/kaiserahmed.vercel.app-211e1b?style=for-the-badge&link=https://kaiserahmed.vercel.app/)](https://kaiserahmed.vercel.app/) [![inkaiserahmed](https://img.shields.io/badge/inkaiserahmed-211e1b?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/inkaiserahmed/)](https://www.linkedin.com/in/inkaiserahmed/)
+[![kaiserahmed.vercel.app](https://img.shields.io/badge/kaiserahmed.vercel.app-211e1b?style=for-the-badge&link=https://kaiserahmed.vercel.app/)](https://kaiserahmed.vercel.app/) [![inkaiserahmed](https://img.shields.io/badge/inkaiserahmed-211e1b?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/inkaiserahmed/)](https://www.linkedin.com/in/inkaiserahmed/) [![inkaiserahmed](https://img.shields.io/badge/inkaiserahmed-211e1b?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/inkaiserahmed/)](https://www.instagram.com/inkaiserahmed/) [![inkaiserahmed](https://img.shields.io/badge/inkaiserahmed-211e1b?style=for-the-badge&logo=Behance&link=https://www.behance.net/inkaiserahmed)](https://www.behance.net/inkaiserahmed)
 
 <p>&nbsp;</p>
 
