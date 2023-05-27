@@ -23,6 +23,8 @@ I have an immense interest in Web Development, UI/UX Design, and Cloud Computing
 
 <img src="https://img.shields.io/badge/Tool-424242?style=for-the-badge" alt="Tool" /><img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code" alt="VS Code" /><img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git" alt="Git" /><img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=Firebase" alt="Firebase" /><img src="https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=Heroku" alt="Heroku" /><img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=Netlify" alt="Netlify" />
 
+<img src="https://img.shields.io/badge/Design-424242?style=for-the-badge" alt="Design" /><img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma" alt="Figma" /><img src="https://img.shields.io/badge/Illustrator-000000?style=for-the-badge&logo=adobe-illustrator" alt="Illustrator" /><img src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobe-photoshop" alt="Photoshop" />
+
 ### ⚡ Expertise
 
 <p align="left">
