@@ -21,8 +21,7 @@ I have an immense interest in Web Development, UI/UX Design, and Cloud Computing
 
 <img src="https://img.shields.io/badge/Familiar-424242?style=for-the-badge" alt="Familiar" /><img src="https://img.shields.io/badge/React%20Native-000000?style=for-the-badge&logo=React" alt="React Native" /><img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=Azure-devops" alt="Azure" /><img src="https://img.shields.io/badge/Wordpress-000000?style=for-the-badge&logo=wordpress" alt="Wordpress" /><img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws" alt="AWS" />
 
-<img src="https://img.shields.io/badge/Tool-424242?style=for-the-badge" alt="Tool" /><img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code" alt="VS Code" /><img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git" alt="Git" />
-<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=Firebase" alt="Firebase" /><img src="https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=Heroku" alt="Heroku" /><img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=Netlify" alt="Netlify" />
+<img src="https://img.shields.io/badge/Tool-424242?style=for-the-badge" alt="Tool" /><img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code" alt="VS Code" /><img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git" alt="Git" /><img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=Firebase" alt="Firebase" /><img src="https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=Heroku" alt="Heroku" /><img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=Netlify" alt="Netlify" />
 
 ### ⚡ Expertise
 
