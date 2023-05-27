@@ -11,32 +11,11 @@ I have an immense interest in Web Development, UI/UX Design, and Cloud Computing
 
 [![kaiserahmed.vercel.app](https://img.shields.io/badge/kaiserahmed.vercel.app-211e1b?style=for-the-badge&link=https://kaiserahmed.vercel.app/)](https://kaiserahmed.vercel.app/) [![inkaiserahmed](https://img.shields.io/badge/inkaiserahmed-211e1b?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/inkaiserahmed/)](https://www.linkedin.com/in/inkaiserahmed/) [![inkaiserahmed](https://img.shields.io/badge/inkaiserahmed-211e1b?style=for-the-badge&logo=Behance&link=https://www.behance.net/inkaiserahmed)](https://www.behance.net/inkaiserahmed) [![inkaiserahmed](https://img.shields.io/badge/inkaiserahmed-211e1b?style=for-the-badge&logo=Medium&link=https://medium.com/@inkaiserahmed)](https://medium.com/@inkaiserahmed) [![mekaiser](https://img.shields.io/badge/mekaiser-211e1b?style=for-the-badge&logo=SVG&link=https://profile-summary-for-github.com/user/mekaiser)](https://profile-summary-for-github.com/user/mekaiser)
 
-<p>&nbsp;</p>
-
-<img align="right" src="images/developer.gif" width="360" height="270" alt="GIF"/>
-
-<p>&nbsp;</p>
-
-- 👨🏻‍💻 Visit my portfolio **[kaiserahmed.vercel.app](https://kaiserahmed.vercel.app/)**
-
-- 📝 I write tech articles on **[medium](https://medium.com/@inkaiserahmed)**
-
-- 🚀 View my cv/resume **[s_m_kaiser_ahmed_cv](https://drive.google.com/file/d/1uL1ggmB6BgkLnl3oVUCTxG4uNxIUyNjR/view)**
-
-- 📫 Reach me at **inkaiserahmed@gmail.com**
-
-- 💡 My hobbies are **playing action video games, watching action movies, and listening to music.**
-
-## Connect With Me
-
-<p align="left">
-<a href="https://twitter.com/inkaiserahmed"><img align="center" src="icons/connections/twitter.svg" alt="inkaiserahmed" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/inkaiserahmed"><img align="center" src="icons/connections/linkedin.svg" alt="inkaiserahmed" height="30" width="40" /></a>
-<a href="https://instagram.com/inkaiserahmed"><img align="center" src="icons/connections/instagram.svg" alt="inkaiserahmed" height="30" width="40" /></a>
-<a href="https://www.behance.net/inkaiserahmed"><img align="center" src="icons/connections/behance.svg" alt="inkaiserahmed" height="30" width="40" /></a>
-</p>
+---
 
 ## Tools And Technologies
+
+<img src="https://img.shields.io/badge/Expertise-424242?style=for-the-badge" alt="Expertise" /><img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5" alt="HTML" /><img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS3" alt="CSS" /><img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=Bootstrap" alt="Bootstrap" /><img src="https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=Sass" alt="Sass" /><img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=Javascript" alt="Javascript" /><img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React" alt="React" /><img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=Next.JS" alt="NextJS" /><img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=Redux" alt="Redux" /><img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=MongoDB" alt="MongoDB" /><img src="https://img.shields.io/badge/NodeJS-000000?style=for-the-badge&logo=Node.js" alt="NodeJS" /><img src="https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express" alt="ExpressJS" />
 
 ### ⚡ Expertise
 
