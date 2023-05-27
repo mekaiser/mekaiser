@@ -28,7 +28,7 @@ I have an immense interest in Web Development, UI/UX Design, and Cloud Computing
 ## Statistics And Languages
 
 <p align="center"> 
-    <img src="https://github-readme-stats-mekaiser-2023.vercel.app/api?username=mekaiser&show_icons=true&count_private=true&theme=codeSTACKr&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="mekaiser" width="auto" height="50%"/> 
+    <img src="https://github-readme-stats-mekaiser-2023.vercel.app/api?username=mekaiser&show_icons=true&count_private=true&theme=codeSTACKr&hide_border=true&bg_color=00000000" alt="mekaiser" width="auto" height="50%"/> 
     <img src="https://github-readme-stats-mekaiser-2023.vercel.app/api/top-langs?username=mekaiser&theme=codeSTACKr&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&hide_border=true" alt="mekaiser" width="auto" height="50%" />
 </p>
 
