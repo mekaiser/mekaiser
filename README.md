@@ -1,6 +1,6 @@
 ![S M Kaiser Ahmed](https://raw.githubusercontent.com/mekaiser/mekaiser/main/images/github-cover-2023-v1.jpg)
 
-Hello there! This is Kaiser! <img src="icons/wave.gif" height="20" width="20"> 👋
+Hello there! This is Kaiser! 👋 <img src="icons/wave.gif" height="20" width="20">
 
 I am a Full Stack Developer who strives to build highly functional, immersive and beautiful web applications through carefully crafted code and user-centric design. I love spending time on fixing little details and creating optimized solutions.
 
