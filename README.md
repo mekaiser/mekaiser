@@ -1,7 +1,10 @@
 ![S M Kaiser Ahmed](https://raw.githubusercontent.com/mekaiser/mekaiser/main/images/github-cover-2023-v1.jpg)
 
-<h1 align="center">Hey there <img src="icons/wave.gif" height="40" width="40">, I'm Kaiser</h1>
-<h3 align="center">I'm a Full Stack Developer, Graphic Designer and Microsoft Learn Beta Student Ambassador.</h3>
+Hello there! This is Kaiser! <img src="icons/wave.gif"> 👋
+
+I am a Full Stack Developer who strives to build highly functional, immersive and beautiful web applications through carefully crafted code and user-centric design. I love spending time on fixing little details and creating optimized solutions.
+
+I have an immense interest in Web Development, UI/UX Design, and Cloud Computing. I love collaborating with new people, having quality talk, and making moments worthy and lively.
 
 <p>&nbsp;</p>
 
