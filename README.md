@@ -6,6 +6,9 @@ I am a Full Stack Developer who strives to build highly functional, immersive an
 
 I have an immense interest in Web Development, UI/UX Design, and Cloud Computing. I love collaborating with new people, having quality talk, and making moments worthy and lively.
 
+📭 Reach Out: inkaiserahmed@gmail.com
+👨🏻‍💻 Portfolio: kaiserahmed.vercel.app
+
 <p>&nbsp;</p>
 
 <img align="right" src="images/developer.gif" width="360" height="270" alt="GIF"/>
