@@ -14,7 +14,7 @@ I have an immense interest in Web Development, UI/UX Design, and Cloud Computing
 ---
 
 <p align="center"> 
-    <img src="https://raw.githubusercontent.com/mekaiser/mekaiser/main/images/boy-with-computer.png" alt="developer" width="50%" height="auto"/>
+    <img src="https://raw.githubusercontent.com/mekaiser/mekaiser/main/images/developer.png" alt="developer" width="50%" height="auto"/>
 </p>
 
 ## Tools And Technologies
