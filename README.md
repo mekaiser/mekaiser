@@ -4,7 +4,7 @@ Hello there! This is Kaiser! <img src="icons/wave.gif" height="18" width="18">
 
 I am a Full Stack Developer who strives to build highly functional, immersive and beautiful web applications through carefully crafted code and user-centric design. I love spending time on fixing little details and creating optimized solutions.
 
-I have an immense interest in Web Development, UI/UX Design, and Cloud Computing. I love collaborating with new people, having quality talk, and making moments worthy and lively.
+I have an immense interest in Software Development, UI/UX Design, and Product Management. I love collaborating with new people, having quality talk, and making moments worthy and lively.
 
 📭 Reach Out: inkaiserahmed@gmail.com <br/>
 🚀 Resume: [s_m_kaiser_ahmed_cv](https://drive.google.com/file/d/1uL1ggmB6BgkLnl3oVUCTxG4uNxIUyNjR/view)
