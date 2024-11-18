@@ -2,9 +2,9 @@
 
 Hello there! This is Kaiser! <img src="icons/wave.gif" height="18" width="18">
 
-I am a Full Stack Developer who strives to build highly functional, immersive and beautiful web applications through carefully crafted code and user-centric design. I love spending time on fixing little details and creating optimized solutions.
+I am a growth-oriented Software Engineer, UI/UX enthusiast, and Product Developer with a proven track record in the software industry, contributing to both local and global organizations. With extensive expertise in digital product development, I have successfully built impactful products independently and for companies, delivering significant value to users.
 
-I have an immense interest in Software Development, UI/UX Design, and Product Management. I love collaborating with new people, having quality talk, and making moments worthy and lively.
+While specializing in frontend development, I bring a multifaceted skill set that includes Digital System Design and Graphic Design. Passionate about UI/UX development, I am committed to creating innovative solutions that bridge creativity and technology, driving business growth and success.
 
 📭 Reach Out: inkaiserahmed@gmail.com <br/>
 🚀 Resume: [s_m_kaiser_ahmed_cv](https://drive.google.com/file/d/1uL1ggmB6BgkLnl3oVUCTxG4uNxIUyNjR/view)
